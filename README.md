@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pratyush021
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning Spring Boot and ReactJS 
-- 💞️ I’m looking to collaborate on any java/c++ related project 
 - 📫 Reach me www.twitter.com/probohidar 
 
 <!---
